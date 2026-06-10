@@ -1,0 +1,11 @@
+pedicle-venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# 데이터 파일 제외 (엑셀/CSV)
+*.csv
+*.xlsx
+*.xls

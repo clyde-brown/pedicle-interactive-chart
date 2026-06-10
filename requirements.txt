@@ -1,0 +1,25 @@
+# --- FastAPI / web server ---
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# --- PostgreSQL ---
+sqlalchemy
+psycopg[binary]
+alembic
+
+# --- Jupyter ---
+jupyterlab
+notebook
+ipykernel
+
+# --- Data / analysis (CSV/Excel 자료 처리용) ---
+pandas
+numpy
+openpyxl
+
+# --- Utils ---
+python-dotenv
+httpx
