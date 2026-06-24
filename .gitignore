@@ -13,3 +13,4 @@ __pycache__/
 # 환자 데이터 포함 파일
 poc/
 notebooks/
+pedicle_dump_*.sql
