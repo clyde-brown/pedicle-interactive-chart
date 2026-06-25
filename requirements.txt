@@ -20,6 +20,9 @@ pandas
 numpy
 openpyxl
 
+# --- LLM (자연어 차팅 → 구조화) ---
+anthropic
+
 # --- Utils ---
 python-dotenv
 httpx
